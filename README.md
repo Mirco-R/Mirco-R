@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Right now i'm learning how GitHub works. I'm a complete beginner but i'll do my best to learn everything 
+I need to know to use it as quickly as possible.
+
+
+
 <!--
 **Mirco-R/Mirco-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
